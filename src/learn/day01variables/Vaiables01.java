@@ -3,6 +3,7 @@ package learn.day01variables;
 public class Vaiables01 {
     public static void main(String[] args) {
         //Basardık mı?
+        //Evet basardık
         //Variable olusturmak
         //Java cumlesi = Statement
         //Java'da esittir demek "==". Yani Matematik'de "=", Java'dd "=="
